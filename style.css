@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+	color: green;
+}
+
+h1 {
+	font-family: arial;
+	font-size: 22px;
+}
+
+.program {
+	color: purple;
+	background-color: blue;
+	text-align: center;
+}
+
+.thoughts {
+	text-align: right;
+}
+
+.me {
+	border: 2px solid red;
+}
+
+a {
+	text-decoration: none;
+}
+
+main {
+	display: grid;
+	grid-template: 50% 50% / 50% 50%;
+}
